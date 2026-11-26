@@ -68,6 +68,71 @@ Reusable AAR logging library published with Maven Publish (GitHub Packages + Jit
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[voip-callbridge](https://github.com/gayatripatel10091992/voip-callbridge)**<br/>
+VoIP calling & texting: Play Billing 7 subscriptions, web-to-native signup handoff, SMS Retriever OTP, Wi-Fi ↔ mobile-data call handover, Hilt.
+
+<img src="https://github.com/gayatripatel10091992/voip-callbridge/raw/main/docs/screenshots/01_recents.png" width="160"/> <img src="https://github.com/gayatripatel10091992/voip-callbridge/raw/main/docs/screenshots/10_plans.png" width="160"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[whitelabel-rides](https://github.com/gayatripatel10091992/whitelabel-rides)**<br/>
+One codebase, nine apps: brand × role product flavors, fare engine, service areas, 6 payment gateways, Arabic RTL, signature View, kiosk mode.
+
+<img src="https://github.com/gayatripatel10091992/whitelabel-rides/raw/main/docs/screenshots/01_rider_swiftride.png" width="160"/> <img src="https://github.com/gayatripatel10091992/whitelabel-rides/raw/main/docs/screenshots/03_rider_rihla_arabic_rtl.png" width="160"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[hirereel-video-jobs](https://github.com/gayatripatel10091992/hirereel-video-jobs)**<br/>
+Video hiring: ExoPlayer feed with a 3-player pool, CameraX video interviews, resumable WorkManager uploads, Koin.
+
+<img src="https://github.com/gayatripatel10091992/hirereel-video-jobs/raw/main/docs/screenshots/02_feed.png" width="160"/> <img src="https://github.com/gayatripatel10091992/hirereel-video-jobs/raw/main/docs/screenshots/07_interview_recording.png" width="160"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[java-eventhub](https://github.com/gayatripatel10091992/java-eventhub)**<br/>
+Java + XML Views: event tickets with Retrofit (mock interceptor), Room, LiveData MVVM, ZXing QR check-in codes.
+
+<img src="https://github.com/gayatripatel10091992/java-eventhub/raw/main/docs/screenshots/01_events.png" width="160"/> <img src="https://github.com/gayatripatel10091992/java-eventhub/raw/main/docs/screenshots/07_my_tickets.png" width="160"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[java-photofeed](https://github.com/gayatripatel10091992/java-photofeed)**<br/>
+Java photo feed: cursor pagination, double-tap like, LruCache image loader, inSampleSize decoding, Photo Picker posts.
+
+<img src="https://github.com/gayatripatel10091992/java-photofeed/raw/main/docs/screenshots/01_feed.png" width="160"/> <img src="https://github.com/gayatripatel10091992/java-photofeed/raw/main/docs/screenshots/04_profile_grid.png" width="160"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[kmp-hirereel](https://github.com/gayatripatel10091992/kmp-hirereel)**<br/>
+Kotlin Multiplatform port of HireReel: shared models, player-pool policy, interview session and upload queue; Compose Multiplatform UI on Android, iOS and Desktop.
+
+<img src="https://github.com/gayatripatel10091992/kmp-hirereel/raw/main/docs/screenshots/02_feed.png" width="160"/> <img src="https://github.com/gayatripatel10091992/kmp-hirereel/raw/main/docs/screenshots/07_interview_recording.png" width="160"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[maui-callbridge](https://github.com/gayatripatel10091992/maui-callbridge)**<br/>
+.NET MAUI port of CallBridge for Android, iOS and Windows: shared C# call state machine and billing logic, MVVM Toolkit, Shell tabs, deep links, xUnit tests.
+
+<img src="https://github.com/gayatripatel10091992/maui-callbridge/raw/main/docs/screenshots/01_calls.png" width="160"/> <img src="https://github.com/gayatripatel10091992/maui-callbridge/raw/main/docs/screenshots/04_in_call.png" width="160"/>
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 <sub>My client work is private; these repos show the same practices on open, original code.</sub>
