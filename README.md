@@ -118,7 +118,7 @@ Java photo feed: cursor pagination, double-tap like, LruCache image loader, inSa
 **[kmp-hirereel](https://github.com/gayatripatel10091992/kmp-hirereel)**<br/>
 Kotlin Multiplatform port of HireReel: shared models, player-pool policy, interview session and upload queue; Compose Multiplatform UI on Android, iOS and Desktop.
 
-<img src="https://github.com/gayatripatel10091992/kmp-hirereel/raw/main/docs/screenshots/02_feed.png" width="160"/> <img src="https://github.com/gayatripatel10091992/kmp-hirereel/raw/main/docs/screenshots/07_interview_recording.png" width="160"/>
+<img src="https://github.com/gayatripatel10091992/kmp-hirereel/raw/main/docs/screenshots/desktop/02_feed.png" width="160"/> <img src="https://github.com/gayatripatel10091992/kmp-hirereel/raw/main/docs/screenshots/desktop/07_interview_recording.png" width="160"/>
 
 </td>
 </tr>
