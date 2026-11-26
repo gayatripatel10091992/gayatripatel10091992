@@ -7,7 +7,7 @@ Open to remote and international roles.
 
 ### What I do
 
-- Build and lead Android apps across **VoIP calling, on-demand mobility, recycling marketplaces and recruitment**
+- Build and lead Android apps across **VoIP calling, on-demand mobility , health care , Kiosk App, POS App, Quiz Poll , Event Management, Service on demand , recycling marketplaces and recruitment**
 - Lead Android teams of **5–7 developers**: architecture, code review, mentoring, client communication
 - As sole Android developer on a **1M+ download VoIP app**, cut the **crash rate by 69%** and **ANR rate by 59%**, and lifted the Play rating from **2.5 to 3.8**
 - Led a **150-screen Java → Jetpack Compose** migration; shipped production apps with **Kotlin Multiplatform**
