@@ -128,7 +128,7 @@ Kotlin Multiplatform port of HireReel: shared models, player-pool policy, interv
 **[maui-callbridge](https://github.com/gayatripatel10091992/maui-callbridge)**<br/>
 .NET MAUI port of CallBridge for Android, iOS and Windows: shared C# call state machine and billing logic, MVVM Toolkit, Shell tabs, deep links, xUnit tests.
 
-<img src="https://github.com/gayatripatel10091992/maui-callbridge/raw/main/docs/screenshots/01_calls.png" width="160"/> <img src="https://github.com/gayatripatel10091992/maui-callbridge/raw/main/docs/screenshots/04_in_call.png" width="160"/>
+<img src="https://github.com/gayatripatel10091992/maui-callbridge/raw/main/docs/screenshots/android/01_calls.png" width="160"/> <img src="https://github.com/gayatripatel10091992/maui-callbridge/raw/main/docs/screenshots/android/04_in_call.png" width="160"/>
 
 </td>
 <td width="50%" valign="top"></td>
